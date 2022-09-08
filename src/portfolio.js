@@ -173,7 +173,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "WordPress & Shopify & JavaScript Developer",
+      role: "WordPress & Shopify & JavaScript Developer test",
       company: "Meaningful Marketing",
       companylogo: require("./assets/images/meaningfulmarketingLogo.png"),
       date: "2019 to Present",
